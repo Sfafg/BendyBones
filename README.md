@@ -4,5 +4,5 @@ A simple and easy solution, producing nice results.
 Perfect as a starting ground for a bigger project.
 
 ## YouTube
-Explanation of the algorithm
-[LINK]
+Explanation of the algorithm:
+https://youtu.be/ZJWHIp0hyjw
