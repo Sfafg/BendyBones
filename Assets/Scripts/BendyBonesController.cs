@@ -13,7 +13,7 @@ public class BendyBonesController : MonoBehaviour
         bones = new List<Transform>();
         boneLengths = new List<float>();
 
-        // Cashe All Bones.
+        // Cash All Bones.
         for (int i = 0; i < chainParent.childCount; i++)
         {
             bones.Add(chainParent.GetChild(i));
